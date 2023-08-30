@@ -1,2 +1,4 @@
 # CTS285_FA23
-Fall 2023 CTS 285
+CTS 285
+
+David McCarthy
